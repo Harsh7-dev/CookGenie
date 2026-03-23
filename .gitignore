@@ -1,0 +1,13 @@
+# Environment variables - never commit this
+.env
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
